@@ -3,3 +3,7 @@ body {
     background-color: lightgrey;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+h1 {
+    color: limegreen;
+}
